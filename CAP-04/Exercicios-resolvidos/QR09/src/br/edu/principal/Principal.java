@@ -57,6 +57,7 @@ public class Principal {
 			default:
 				System.out.println("Ocorreu um erro.");
 		}
+		mes = mes + 1;
 		System.out.println("A data é: " + dia + "/" + mes + "/" + ano + ", " + mesAt);
 		System.out.println("O horário é: " + hora + ":" + min);
 		System.out.println("Fim do programa.");
