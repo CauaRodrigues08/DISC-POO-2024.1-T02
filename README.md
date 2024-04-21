@@ -154,8 +154,6 @@ Refrigeração: S
   
 25. Faça um programa que receba a medida de um ângulo em graus. Calcule e mostre o quadrante em que se localiza esse ângulo. Considere os quadrantes da trigonometria e, para ângulos maiores que 360o ou menores que −360o, reduzi-los, mostrando também o número de voltas e o sentido da volta (horário ou anti-horário).
 
-QUESTOES PROPOSTAS CAP 04 README
-
 # Exercícios propostos do capítulo 4 do livro de Fundamentos da Programação da matéria de POO de JAVA
 
 ## Enunciados das questões:
